@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Binary Calculator</title>
+    <style>
+      body {
+        width: 33%;
+      }
+
+      #res {
+        background-color: lightgray;
+        border: solid;
+        height: 48px;
+        font-size: 20px;
+      }
+
+      .buttonClass {
+        width: 25%;
+        height: 36px;
+        font-size: 18px;
+        margin: 0;
+        float: left;
+      }
+
+      #btn0,
+      #btn1 {
+        background-color: lightgreen;
+        color: brown;
+      }
+
+      #btnClr,
+      #btnEql {
+        background-color: darkgreen;
+        color: white;
+      }
+
+      #btnSum,
+      #btnSub,
+      #btnMul,
+      #btnDiv {
+        background-color: black;
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="res"></div>
+    <div id="btns">
+      <button id="btn0" class="buttonClass">0</button>
+      <button id="btn1" class="buttonClass">1</button>
+      <button id="btnClr" class="buttonClass">C</button>
+      <button id="btnEql" class="buttonClass">=</button>
+      <button id="btnSum" class="buttonClass">+</button>
+      <button id="btnSub" class="buttonClass">-</button>
+      <button id="btnMul" class="buttonClass">*</button>
+      <button id="btnDiv" class="buttonClass">/</button>
+    </div>
+    <script>
+      function onClick(e) {
+        var action = e.target.innerHTML;
+        var res = document.getElementById("res");
+
+        switch (action) {
+          case "C":
+            res.innerHTML = "";
+            break;
+          case "=":
+            var expr = res.innerHTML;
+            var nums = /(\d+)/g;
+            // Replace all base 2 nums with base 10 equivs
+            expr = expr.replace(nums, function (match) {
+              return parseInt(match, 2);
+            });
+            // eval in base 10 and convert to base 2
+            res.innerHTML = eval(expr).toString(2);
+            break;
+          default:
+            res.innerHTML += action;
+        }
+      }
+      var buttons = document.getElementsByTagName("button");
+      for (let button of buttons) {
+        button.onclick = onClick;
+      }
+    </script>
+  </body>
+</html>

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Button</title>
+    <style>
+      #btn {
+        width: 96px;
+        height: 48px;
+        font-size: 24px;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+      var btn = document.createElement("button");
+      btn.id = "btn";
+      btn.innerHTML = "0";
+      document.body.appendChild(btn);
+      btn.onclick = function () {
+        btn.innerHTML = parseInt(btn.innerHTML) + 1;
+      };
+    </script>
+  </body>
+</html>
