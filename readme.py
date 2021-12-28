@@ -33,7 +33,8 @@ def get_request_headers():
 
 
 def get_problem_data(file):
-    fname = file.split('.')[0]
+    number, fname, ext = file.split('.')
+    fname = fname.strip()
     url = "https://hackerrank.com/challenges/" + fname + "/problem"
     html = requests.get(url, headers=get_request_headers())
     soup = BeautifulSoup(html.text, "html.parser")
@@ -69,12 +70,12 @@ def get_problem_data(file):
             name = 'Day 9: Binary Calculator'
             difficulty = 'Medium'
             score = '30'
-    return url, name, difficulty, score
+    return number, name, url, ext, difficulty, score
 
 
 if __name__ == "__main__":
     readmeFile = open('README.md', 'w', encoding='utf-8')
-    print('# Hackerrank challenge solutions', file=readmeFile)
+    print('# HackerRank Challenge Solutions', file=readmeFile)
 
     folders = get_folder_names(os.getcwd())
     for folder in sorted(folders):
@@ -82,19 +83,20 @@ if __name__ == "__main__":
         subfolders = get_folder_names(os.path.join(os.getcwd(), folder))
         for subfolder in sorted(subfolders):
             print('\n## ' + subfolder + "\n", file=readmeFile)
-            print("| Challenge | Solution | Difficulty | Score |", file=readmeFile)
-            print("| :-: | :-: | :-: | :-: |", file=readmeFile)
+            print("| Number | Challenge | Solution | Difficulty | Score |",
+                  file=readmeFile)
+            print("| :-: | :-: | :-: | :-: | :-: |", file=readmeFile)
             files = get_file_names(os.path.join(
                 os.getcwd(), folder, subfolder))
             for file in sorted(files):
-                url, name, difficulty, score = get_problem_data(file)
-                print('| [' + name + '](' + url + ')'
-                      + ' | [Solution]'
-                        + '('
-                        + folder.replace(' ', '%20') + '/' +
-                      subfolder.replace(' ', '%20') + '/'
+                number, name, url, ext, difficulty, score = get_problem_data(
+                    file)
+                print('| ' + number + ' | [' + name + '](' + url + ')'
+                        + ' | [' + ext + ']('
+                        + folder.replace(' ', '%20') + '/' 
+                        + subfolder.replace(' ', '%20') + '/'
                         + file.replace(' ', '%20') + ')'
                         + ' | ' + difficulty
-                        + ' | ' + score, file=readmeFile)
+                        + ' | ' + score + ' |', file=readmeFile)
 
     readmeFile.close()
