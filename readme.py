@@ -1,6 +1,6 @@
 import os
-import requests
 import logging
+import requests
 from bs4 import BeautifulSoup
 from credentials import CSRF_TOKEN, COOKIE, USER_AGENT
 

@@ -309,6 +309,27 @@
 |   07   |           [Text Alignment](https://hackerrank.com/challenges/text-alignment/problem)            |        [py](09.%20Python/03.%20Strings/07.%20text-alignment.py)        |    Easy    |  10   |
 |   08   |                [Text Wrap](https://hackerrank.com/challenges/text-wrap/problem)                 |          [py](09.%20Python/03.%20Strings/08.%20text-wrap.py)           |    Easy    |  10   |
 |   09   |        [Designer Door Mat](https://hackerrank.com/challenges/designer-door-mat/problem)         |      [py](09.%20Python/03.%20Strings/09.%20designer-door-mat.py)       |    Easy    |  10   |
+|   10   |     [String Formatting](https://hackerrank.com/challenges/python-string-formatting/problem)     |   [py](09.%20Python/03.%20Strings/10.%20python-string-formatting.py)   |    Easy    |  10   |
+|   11   |         [Alphabet Rangoli](https://hackerrank.com/challenges/alphabet-rangoli/problem)          |       [py](09.%20Python/03.%20Strings/11.%20alphabet-rangoli.py)       |    Easy    |  20   |
+|   12   |               [Capitalize!](https://hackerrank.com/challenges/capitalize/problem)               |          [py](09.%20Python/03.%20Strings/12.%20capitalize.py)          |    Easy    |  20   |
+
+## 04. Sets
+
+| Number |                                                        Challenge                                                         |                                   Solution                                   | Difficulty | Score |
+| :----: | :----------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------: | :--------: | :---: |
+|   01   |                [Introduction to Sets](https://hackerrank.com/challenges/py-introduction-to-sets/problem)                 |        [py](09.%20Python/04.%20Sets/01.%20py-introduction-to-sets.py)        |    Easy    |  10   |
+|   02   |                              [No Idea!](https://hackerrank.com/challenges/no-idea/problem)                               |                [py](09.%20Python/04.%20Sets/02.%20no-idea.py)                |   Medium   |  50   |
+|   03   |                  [Symmetric Difference](https://hackerrank.com/challenges/symmetric-difference/problem)                  |         [py](09.%20Python/04.%20Sets/03.%20symmetric-difference.py)          |    Easy    |  10   |
+|   04   |                            [Set .add()](https://hackerrank.com/challenges/py-set-add/problem)                            |              [py](09.%20Python/04.%20Sets/04.%20py-set-add.py)               |    Easy    |  10   |
+|   05   |        [Set .discard(), .remove() & .pop()](https://hackerrank.com/challenges/py-set-discard-remove-pop/problem)         |       [py](09.%20Python/04.%20Sets/05.%20py-set-discard-remove-pop.py)       |    Easy    |  10   |
+|   06   |                     [Set .union() Operation](https://hackerrank.com/challenges/py-set-union/problem)                     |             [py](09.%20Python/04.%20Sets/06.%20py-set-union.py)              |    Easy    |  10   |
+|   07   |         [Set .intersection() Operation](https://hackerrank.com/challenges/py-set-intersection-operation/problem)         |     [py](09.%20Python/04.%20Sets/07.%20py-set-intersection-operation.py)     |    Easy    |  10   |
+|   08   |           [Set .difference() Operation](https://hackerrank.com/challenges/py-set-difference-operation/problem)           |      [py](09.%20Python/04.%20Sets/08.%20py-set-difference-operation.py)      |    Easy    |  10   |
+|   09   | [Set .symmetric_difference() Operation](https://hackerrank.com/challenges/py-set-symmetric-difference-operation/problem) | [py](09.%20Python/04.%20Sets/09.%20py-set-symmetric-difference-operation.py) |    Easy    |  10   |
+|   10   |                       [Set Mutations](https://hackerrank.com/challenges/py-set-mutations/problem)                        |           [py](09.%20Python/04.%20Sets/10.%20py-set-mutations.py)            |    Easy    |  10   |
+|   11   |                   [The Captain's Room](https://hackerrank.com/challenges/py-the-captains-room/problem)                   |         [py](09.%20Python/04.%20Sets/11.%20py-the-captains-room.py)          |    Easy    |  10   |
+|   12   |                        [Check Subset](https://hackerrank.com/challenges/py-check-subset/problem)                         |            [py](09.%20Python/04.%20Sets/12.%20py-check-subset.py)            |    Easy    |  10   |
+|   13   |               [Check Strict Superset](https://hackerrank.com/challenges/py-check-strict-superset/problem)                |       [py](09.%20Python/04.%20Sets/13.%20py-check-strict-superset.py)        |    Easy    |  10   |
 
 # 11. SQL
 
