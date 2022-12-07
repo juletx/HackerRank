@@ -376,6 +376,17 @@
 |   08   |             [Ruby Hash - Each](https://hackerrank.com/challenges/ruby-hash-method-each/problem)              |   [rb](10.%20Ruby/03.%20Arrays%20&%20Hashes/08.%20ruby-hash-method-each.rb)   |    Easy    |  10   |
 |   09   | [Ruby Hash - Addition, Deletion, Selection](https://hackerrank.com/challenges/ruby-hash-add-del-sel/problem) |   [rb](10.%20Ruby/03.%20Arrays%20&%20Hashes/09.%20ruby-hash-add-del-sel.rb)   |    Easy    |  10   |
 
+## 04. Enumerables
+
+| Number |                                                             Challenge                                                             |                                   Solution                                    | Difficulty | Score |
+| :----: | :-------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :--------: | :---: |
+|   01   |            [Ruby - Enumerable - Introduction](https://hackerrank.com/challenges/ruby-enumerable-introduction/problem)             |   [rb](10.%20Ruby/04.%20Enumerables/01.%20ruby-enumerable-introduction.rb)    |   Medium   |  10   |
+|   02   |         [Ruby - Enumerable - each_with_index](https://hackerrank.com/challenges/ruby-enumerable-each-with-index/problem)          |  [rb](10.%20Ruby/04.%20Enumerables/02.%20ruby-enumerable-each-with-index.rb)  |   Medium   |  10   |
+|   03   |                 [Ruby - Enumerable - collect](https://hackerrank.com/challenges/ruby-enumerable-collect/problem)                  |      [rb](10.%20Ruby/04.%20Enumerables/03.%20ruby-enumerable-collect.rb)      |   Medium   |  10   |
+|   04   |                  [Ruby - Enumerable - reduce](https://hackerrank.com/challenges/ruby-enumerable-reduce/problem)                   |      [rb](10.%20Ruby/04.%20Enumerables/04.%20ruby-enumerable-reduce.rb)       |   Medium   |  10   |
+|   05   | [Ruby Enumerables: 'any', 'all', 'none', and 'find'](https://hackerrank.com/challenges/ruby-enumerable-any-all-none-find/problem) | [rb](10.%20Ruby/04.%20Enumerables/05.%20ruby-enumerable-any-all-none-find.rb) |   Medium   |  15   |
+|   06   |                [Ruby - Enumerable - group_by](https://hackerrank.com/challenges/ruby-enumerable-group-by/problem)                 |     [rb](10.%20Ruby/04.%20Enumerables/06.%20ruby-enumerable-group-by.rb)      |   Medium   |  15   |
+
 # 11. SQL
 
 ## 01. Basic Select
