@@ -335,6 +335,47 @@
 |   12   |                        [Check Subset](https://hackerrank.com/challenges/py-check-subset/problem)                         |            [py](09.%20Python/04.%20Sets/12.%20py-check-subset.py)            |    Easy    |  10   |
 |   13   |               [Check Strict Superset](https://hackerrank.com/challenges/py-check-strict-superset/problem)                |       [py](09.%20Python/04.%20Sets/13.%20py-check-strict-superset.py)        |    Easy    |  10   |
 
+## 05. Math
+
+| Number |                                    Challenge                                     |                         Solution                         | Difficulty | Score |
+| :----: | :------------------------------------------------------------------------------: | :------------------------------------------------------: | :--------: | :---: |
+|   01   | [Polar Coordinates](https://hackerrank.com/challenges/polar-coordinates/problem) | [py](09.%20Python/05.%20Math/01.%20polar-coordinates.py) |    Easy    |  10   |
+
+# 10. Ruby
+
+## 01. Introduction
+
+| Number |                                                           Challenge                                                           |                                       Solution                                       | Difficulty | Score |
+| :----: | :---------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: | :--------: | :---: |
+|   01   |                [Ruby Tutorial - Hello HackerRank!](https://hackerrank.com/challenges/ruby-hello-world/problem)                |            [rb](10.%20Ruby/01.%20Introduction/01.%20ruby-hello-world.rb)             |    Easy    |   5   |
+|   02   |  [Ruby Tutorial - Everything is an Object](https://hackerrank.com/challenges/ruby-tutorial-everything-is-an-object/problem)   |  [rb](10.%20Ruby/01.%20Introduction/02.%20ruby-tutorial-everything-is-an-object.rb)  |    Easy    |  10   |
+|   03   |           [Ruby Tutorial - Object Methods](https://hackerrank.com/challenges/ruby-tutorial-object-methods/problem)            |      [rb](10.%20Ruby/01.%20Introduction/03.%20ruby-tutorial-object-methods.rb)       |    Easy    |  10   |
+|   04   | [Ruby Tutorial - Object Method Parameters](https://hackerrank.com/challenges/ruby-tutorials-object-method-parameters/problem) | [rb](10.%20Ruby/01.%20Introduction/04.%20ruby-tutorials-object-method-parameters.rb) |    Easy    |  10   |
+
+## 02. Control Structures
+
+| Number |                                                Challenge                                                |                                 Solution                                  | Difficulty | Score |
+| :----: | :-----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :--------: | :---: |
+|   01   |     [Ruby Control Structures - Each](https://hackerrank.com/challenges/ruby-tutorial-each/problem)      |  [rb](10.%20Ruby/02.%20Control%20Structures/01.%20ruby-tutorial-each.rb)  |    Easy    |  10   |
+|   02   |   [Ruby Control Structures - Unless](https://hackerrank.com/challenges/ruby-tutorial-unless/problem)    | [rb](10.%20Ruby/02.%20Control%20Structures/02.%20ruby-tutorial-unless.rb) |    Easy    |  10   |
+|   03   | [Ruby Control Structures - Infinite Loop](https://hackerrank.com/challenges/ruby-infinite-loop/problem) |  [rb](10.%20Ruby/02.%20Control%20Structures/03.%20ruby-infinite-loop.rb)  |    Easy    |  10   |
+|   04   |         [Ruby Control Structures - Until](https://hackerrank.com/challenges/ruby-until/problem)         |      [rb](10.%20Ruby/02.%20Control%20Structures/04.%20ruby-until.rb)      |    Easy    |  10   |
+|   05   | [Ruby Control Structures - Case (Bonus Question)](https://hackerrank.com/challenges/ruby-case/problem)  |      [rb](10.%20Ruby/02.%20Control%20Structures/05.%20ruby-case.rb)       |   Medium   |  20   |
+
+## 03. Arrays & Hashes
+
+| Number |                                                  Challenge                                                   |                                   Solution                                    | Difficulty | Score |
+| :----: | :----------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: | :--------: | :---: |
+|   01   |      [Ruby Array - Initialization](https://hackerrank.com/challenges/ruby-array-initialization/problem)      | [rb](10.%20Ruby/03.%20Arrays%20&%20Hashes/01.%20ruby-array-initialization.rb) |    Easy    |  10   |
+|   02   |          [Ruby Array - Index, Part 1](https://hackerrank.com/challenges/ruby-array-index-i/problem)          |    [rb](10.%20Ruby/03.%20Arrays%20&%20Hashes/02.%20ruby-array-index-i.rb)     |    Easy    |  10   |
+|   03   |         [Ruby Array - Index, Part 2](https://hackerrank.com/challenges/ruby-array-index-ii/problem)          |    [rb](10.%20Ruby/03.%20Arrays%20&%20Hashes/03.%20ruby-array-index-ii.rb)    |    Easy    |  10   |
+|   04   |            [Ruby Array - Addition](https://hackerrank.com/challenges/ruby-array-addition/problem)            |    [rb](10.%20Ruby/03.%20Arrays%20&%20Hashes/04.%20ruby-array-addition.rb)    |    Easy    |  10   |
+|   05   |            [Ruby Array - Deletion](https://hackerrank.com/challenges/ruby-array-deletion/problem)            |    [rb](10.%20Ruby/03.%20Arrays%20&%20Hashes/05.%20ruby-array-deletion.rb)    |    Easy    |  10   |
+|   06   |           [Ruby Array - Selection](https://hackerrank.com/challenges/ruby-array-selection/problem)           |   [rb](10.%20Ruby/03.%20Arrays%20&%20Hashes/06.%20ruby-array-selection.rb)    |    Easy    |  10   |
+|   07   |       [Ruby Hash - Initialization](https://hackerrank.com/challenges/ruby-hash-initialization/problem)       | [rb](10.%20Ruby/03.%20Arrays%20&%20Hashes/07.%20ruby-hash-initialization.rb)  |    Easy    |  10   |
+|   08   |             [Ruby Hash - Each](https://hackerrank.com/challenges/ruby-hash-method-each/problem)              |   [rb](10.%20Ruby/03.%20Arrays%20&%20Hashes/08.%20ruby-hash-method-each.rb)   |    Easy    |  10   |
+|   09   | [Ruby Hash - Addition, Deletion, Selection](https://hackerrank.com/challenges/ruby-hash-add-del-sel/problem) |   [rb](10.%20Ruby/03.%20Arrays%20&%20Hashes/09.%20ruby-hash-add-del-sel.rb)   |    Easy    |  10   |
+
 # 11. SQL
 
 ## 01. Basic Select
@@ -379,3 +420,53 @@
 | Number |                                    Challenge                                     |                                Solution                                | Difficulty | Score |
 | :----: | :------------------------------------------------------------------------------: | :--------------------------------------------------------------------: | :--------: | :---: |
 |   01   | [Let's Echo](https://hackerrank.com/challenges/bash-tutorials-lets-echo/problem) | [sh](13.%20Linux%20Shell/01.%20Bash/01.%20bash-tutorials-lets-echo.sh) |    Easy    |   1   |
+
+# 14. Interview Preparation Kit
+
+## 01. Warm-up Challenges
+
+| Number |                                        Challenge                                         |                                              Solution                                               | Difficulty | Score |
+| :----: | :--------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :--------: | :---: |
+|   01   |        [Sales by Match](https://hackerrank.com/challenges/sock-merchant/problem)         |     [py](14.%20Interview%20Preparation%20Kit/01.%20Warm-up%20Challenges/01.%20sock-merchant.py)     |    Easy    |  10   |
+|   02   |      [Counting Valleys](https://hackerrank.com/challenges/counting-valleys/problem)      |   [py](14.%20Interview%20Preparation%20Kit/01.%20Warm-up%20Challenges/02.%20counting-valleys.py)    |    Easy    |  15   |
+|   03   | [Jumping on the Clouds](https://hackerrank.com/challenges/jumping-on-the-clouds/problem) | [py](14.%20Interview%20Preparation%20Kit/01.%20Warm-up%20Challenges/03.%20jumping-on-the-clouds.py) |    Easy    |  20   |
+|   04   |       [Repeated String](https://hackerrank.com/challenges/repeated-string/problem)       |    [py](14.%20Interview%20Preparation%20Kit/01.%20Warm-up%20Challenges/04.%20repeated-string.py)    |    Easy    |  20   |
+
+## 02. Arrays
+
+| Number |                                          Challenge                                          |                                           Solution                                           | Difficulty | Score |
+| :----: | :-----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------: | :--------: | :---: |
+|   01   |             [2D Array - DS](https://hackerrank.com/challenges/2d-array/problem)             |         [java](14.%20Interview%20Preparation%20Kit/02.%20Arrays/01.%202d-array.java)         |    Easy    |  15   |
+|   02   | [Arrays: Left Rotation](https://hackerrank.com/challenges/ctci-array-left-rotation/problem) | [java](14.%20Interview%20Preparation%20Kit/02.%20Arrays/02.%20ctci-array-left-rotation.java) |    Easy    |  20   |
+|   03   |         [New Year Chaos](https://hackerrank.com/challenges/new-year-chaos/problem)          |        [py](14.%20Interview%20Preparation%20Kit/02.%20Arrays/03.%20new-year-chaos.py)        |   Medium   |  40   |
+|   04   |        [Minimum Swaps 2](https://hackerrank.com/challenges/minimum-swaps-2/problem)         |       [py](14.%20Interview%20Preparation%20Kit/02.%20Arrays/04.%20minimum-swaps-2.py)        |   Medium   |  40   |
+|   05   |            [Array Manipulation](https://hackerrank.com/challenges/crush/problem)            |          [java](14.%20Interview%20Preparation%20Kit/02.%20Arrays/05.%20crush.java)           |    Hard    |  60   |
+
+## 09. Stacks and Queues
+
+| Number |                                    Challenge                                     |                                               Solution                                               | Difficulty | Score |
+| :----: | :------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :--------: | :---: |
+|   01   | [Balanced Brackets](https://hackerrank.com/challenges/balanced-brackets/problem) | [java](14.%20Interview%20Preparation%20Kit/09.%20Stacks%20and%20Queues/01.%20balanced-brackets.java) |   Medium   |  25   |
+
+## 10. Graphs
+
+| Number |                                        Challenge                                        |                                          Solution                                          | Difficulty | Score |
+| :----: | :-------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------: | :--------: | :---: |
+|   01   | [Roads and Libraries](https://hackerrank.com/challenges/torque-and-development/problem) | [java](14.%20Interview%20Preparation%20Kit/10.%20Graphs/01.%20torque-and-development.java) |   Medium   |  30   |
+
+## 11. Trees
+
+| Number |                                                             Challenge                                                              |                                                   Solution                                                   | Difficulty | Score |
+| :----: | :--------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------: | :--------: | :---: |
+|   01   |              [Tree: Height of a Binary Tree](https://hackerrank.com/challenges/tree-height-of-a-binary-tree/problem)               |       [java](14.%20Interview%20Preparation%20Kit/11.%20Trees/01.%20tree-height-of-a-binary-tree.java)        |    Easy    |  10   |
+|   02   | [Binary Search Tree : Lowest Common Ancestor](https://hackerrank.com/challenges/binary-search-tree-lowest-common-ancestor/problem) | [java](14.%20Interview%20Preparation%20Kit/11.%20Trees/02.%20binary-search-tree-lowest-common-ancestor.java) |    Easy    |  30   |
+
+## 12. Linked Lists
+
+| Number |                                                                        Challenge                                                                         |                                                             Solution                                                              | Difficulty | Score |
+| :----: | :------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------: | :--------: | :---: |
+|   01   | [Insert a node at a specific position in a linked list](https://hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) | [java](14.%20Interview%20Preparation%20Kit/12.%20Linked%20Lists/01.%20insert-a-node-at-a-specific-position-in-a-linked-list.java) |    Easy    |   5   |
+|   02   |      [Inserting a Node Into a Sorted Doubly Linked List](https://hackerrank.com/challenges/insert-a-node-into-a-sorted-doubly-linked-list/problem)       |    [java](14.%20Interview%20Preparation%20Kit/12.%20Linked%20Lists/02.%20insert-a-node-into-a-sorted-doubly-linked-list.java)     |    Easy    |   5   |
+|   03   |                          [Reverse a doubly linked list](https://hackerrank.com/challenges/reverse-a-doubly-linked-list/problem)                          |             [java](14.%20Interview%20Preparation%20Kit/12.%20Linked%20Lists/03.%20reverse-a-doubly-linked-list.java)              |    Easy    |   5   |
+|   04   |                [Find Merge Point of Two Lists](https://hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem)                |    [java](14.%20Interview%20Preparation%20Kit/12.%20Linked%20Lists/04.%20find-the-merge-point-of-two-joined-linked-lists.java)    |    Easy    |   5   |
+|   05   |                             [Linked Lists: Detect a Cycle](https://hackerrank.com/challenges/ctci-linked-list-cycle/problem)                             |                [java](14.%20Interview%20Preparation%20Kit/12.%20Linked%20Lists/05.%20ctci-linked-list-cycle.java)                 |    Easy    |  25   |
