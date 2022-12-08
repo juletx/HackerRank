@@ -387,6 +387,33 @@
 |   05   | [Ruby Enumerables: 'any', 'all', 'none', and 'find'](https://hackerrank.com/challenges/ruby-enumerable-any-all-none-find/problem) | [rb](10.%20Ruby/04.%20Enumerables/05.%20ruby-enumerable-any-all-none-find.rb) |   Medium   |  15   |
 |   06   |                [Ruby - Enumerable - group_by](https://hackerrank.com/challenges/ruby-enumerable-group-by/problem)                 |     [rb](10.%20Ruby/04.%20Enumerables/06.%20ruby-enumerable-group-by.rb)      |   Medium   |  15   |
 
+## 05. Methods
+
+| Number |                                                    Challenge                                                     |                                Solution                                 | Difficulty | Score |
+| :----: | :--------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: | :--------: | :---: |
+|   01   |       [Ruby - Methods - Introduction](https://hackerrank.com/challenges/ruby-methods-introduction/problem)       |    [rb](10.%20Ruby/05.%20Methods/01.%20ruby-methods-introduction.rb)    |    Easy    |  10   |
+|   02   |          [Ruby - Methods - Arguments](https://hackerrank.com/challenges/ruby-methods-arguments/problem)          |     [rb](10.%20Ruby/05.%20Methods/02.%20ruby-methods-arguments.rb)      |   Medium   |  15   |
+|   03   | [Ruby - Methods - Variable Arguments](https://hackerrank.com/challenges/ruby-methods-variable-arguments/problem) | [rb](10.%20Ruby/05.%20Methods/03.%20ruby-methods-variable-arguments.rb) |    Easy    |  15   |
+|   04   |  [Ruby - Methods - Keyword Arguments](https://hackerrank.com/challenges/ruby-methods-keyword-arguments/problem)  | [rb](10.%20Ruby/05.%20Methods/04.%20ruby-methods-keyword-arguments.rb)  |   Medium   |  20   |
+|   05   |                         [Blocks](https://hackerrank.com/challenges/ruby-blocks/problem)                          |           [rb](10.%20Ruby/05.%20Methods/05.%20ruby-blocks.rb)           |    Easy    |  30   |
+|   06   |                          [Procs](https://hackerrank.com/challenges/ruby-procs/problem)                           |           [rb](10.%20Ruby/05.%20Methods/06.%20ruby-procs.rb)            |    Easy    |  30   |
+|   07   |                        [Lambdas](https://hackerrank.com/challenges/ruby-lambdas/problem)                         |          [rb](10.%20Ruby/05.%20Methods/07.%20ruby-lambdas.rb)           |    Easy    |  30   |
+|   08   |                       [Closures](https://hackerrank.com/challenges/ruby-closures/problem)                        |          [rb](10.%20Ruby/05.%20Methods/08.%20ruby-closures.rb)          |    Easy    |  30   |
+|   09   |           [Partial Applications](https://hackerrank.com/challenges/ruby-partial-applications/problem)            |    [rb](10.%20Ruby/05.%20Methods/09.%20ruby-partial-applications.rb)    |    Easy    |  30   |
+|   10   |                         [Currying](https://hackerrank.com/challenges/ruby-curry/problem)                         |           [rb](10.%20Ruby/05.%20Methods/10.%20ruby-curry.rb)            |    Easy    |  30   |
+|   11   |                      [Lazy Evaluation](https://hackerrank.com/challenges/ruby-lazy/problem)                      |            [rb](10.%20Ruby/05.%20Methods/11.%20ruby-lazy.rb)            |   Medium   |  30   |
+
+## 06. Strings
+
+| Number |                                              Challenge                                               |                             Solution                              | Difficulty | Score |
+| :----: | :--------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------: | :--------: | :---: |
+|   01   | [Ruby - Strings - Introduction](https://hackerrank.com/challenges/ruby-strings-introduction/problem) | [rb](10.%20Ruby/06.%20Strings/01.%20ruby-strings-introduction.rb) |    Easy    |  10   |
+|   02   |     [Ruby - Strings - Encoding](https://hackerrank.com/challenges/ruby-strings-encoding/problem)     |   [rb](10.%20Ruby/06.%20Strings/02.%20ruby-strings-encoding.rb)   |    Easy    |  15   |
+|   03   |     [Ruby - Strings - Indexing](https://hackerrank.com/challenges/ruby-strings-indexing/problem)     |   [rb](10.%20Ruby/06.%20Strings/03.%20ruby-strings-indexing.rb)   |    Easy    |  15   |
+|   04   |    [Ruby - Strings - Iteration](https://hackerrank.com/challenges/ruby-strings-iteration/problem)    |  [rb](10.%20Ruby/06.%20Strings/04.%20ruby-strings-iteration.rb)   |    Easy    |  15   |
+|   05   |    [Ruby - Strings - Methods I](https://hackerrank.com/challenges/ruby-strings-methods-i/problem)    |  [rb](10.%20Ruby/06.%20Strings/05.%20ruby-strings-methods-i.rb)   |    Easy    |  15   |
+|   06   |   [Ruby - Strings - Methods II](https://hackerrank.com/challenges/ruby-strings-methods-ii/problem)   |  [rb](10.%20Ruby/06.%20Strings/06.%20ruby-strings-methods-ii.rb)  |    Easy    |  15   |
+
 # 11. SQL
 
 ## 01. Basic Select
