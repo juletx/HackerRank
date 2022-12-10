@@ -70,6 +70,14 @@ def get_problem_data(file):
             name = 'Day 9: Binary Calculator'
             difficulty = 'Medium'
             score = '30'
+        if fname == 'saveprincess':
+            name = 'Bot saves princess'
+            difficulty = 'Easy'
+            score = '13'
+        if fname == 'saveprincess2':
+            name = 'Bot saves princess - 2'
+            difficulty = 'Easy'
+            score = '17'
     return number, name, url, ext, difficulty, score
 
 
