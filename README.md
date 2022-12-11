@@ -457,6 +457,19 @@
 | 15 | [Weather Observation Station 10](https://hackerrank.com/challenges/weather-observation-station-10/problem) | [sql](11.%20SQL/01.%20Basic%20Select/15.%20weather-observation-station-10.sql) | Easy | 10 |
 | 16 | [Weather Observation Station 11](https://hackerrank.com/challenges/weather-observation-station-11/problem) | [sql](11.%20SQL/01.%20Basic%20Select/16.%20weather-observation-station-11.sql) | Easy | 15 |
 | 17 | [Weather Observation Station 12](https://hackerrank.com/challenges/weather-observation-station-12/problem) | [sql](11.%20SQL/01.%20Basic%20Select/17.%20weather-observation-station-12.sql) | Easy | 15 |
+| 18 | [Higher Than 75 Marks](https://hackerrank.com/challenges/more-than-75-marks/problem) | [sql](11.%20SQL/01.%20Basic%20Select/18.%20more-than-75-marks.sql) | Easy | 15 |
+| 19 | [Employee Names](https://hackerrank.com/challenges/name-of-employees/problem) | [sql](11.%20SQL/01.%20Basic%20Select/19.%20name-of-employees.sql) | Easy | 10 |
+| 20 | [Employee Salaries](https://hackerrank.com/challenges/salary-of-employees/problem) | [sql](11.%20SQL/01.%20Basic%20Select/20.%20salary-of-employees.sql) | Easy | 10 |
+
+## 02. Advanced Select
+
+| Number | Challenge | Solution | Difficulty | Score |
+| :-: | :-: | :-: | :-: | :-: |
+| 01 | [Type of Triangle](https://hackerrank.com/challenges/what-type-of-triangle/problem) | [sql](11.%20SQL/02.%20Advanced%20Select/01.%20what-type-of-triangle.sql) | Easy | 20 |
+| 02 | [The PADS](https://hackerrank.com/challenges/the-pads/problem) | [sql](11.%20SQL/02.%20Advanced%20Select/02.%20the-pads.sql) | Medium | 30 |
+| 03 | [Occupations](https://hackerrank.com/challenges/occupations/problem) | [sql](11.%20SQL/02.%20Advanced%20Select/03.%20occupations.sql) | Medium | 30 |
+| 04 | [Binary Tree Nodes](https://hackerrank.com/challenges/binary-search-tree-1/problem) | [sql](11.%20SQL/02.%20Advanced%20Select/04.%20binary-search-tree-1.sql) | Medium | 30 |
+| 05 | [New Companies](https://hackerrank.com/challenges/the-company/problem) | [sql](11.%20SQL/02.%20Advanced%20Select/05.%20the-company.sql) | Medium | 30 |
 
 ## 03. Aggregation
 
