@@ -264,6 +264,15 @@
 | 05 | [For Loop](https://hackerrank.com/challenges/c-tutorial-for-loop/problem) | [cpp](07.%20C++/01.%20Introduction/05.%20c-tutorial-for-loop.cpp) | Easy | 10 |
 | 06 | [Pointer](https://hackerrank.com/challenges/c-tutorial-pointer/problem) | [cpp](07.%20C++/01.%20Introduction/06.%20c-tutorial-pointer.cpp) | Easy | 10 |
 | 07 | [Arrays Introduction](https://hackerrank.com/challenges/arrays-introduction/problem) | [cpp](07.%20C++/01.%20Introduction/07.%20arrays-introduction.cpp) | Easy | 10 |
+| 08 | [Variable Sized Arrays](https://hackerrank.com/challenges/variable-sized-arrays/problem) | [cpp](07.%20C++/01.%20Introduction/08.%20variable-sized-arrays.cpp) | Easy | 30 |
+
+## 02. Strings
+
+| Number | Challenge | Solution | Difficulty | Score |
+| :-: | :-: | :-: | :-: | :-: |
+| 01 | [Attribute Parser](https://hackerrank.com/challenges/attribute-parser/problem) | [cpp](07.%20C++/02.%20Strings/01.%20attribute-parser.cpp) | Medium | 35 |
+| 02 | [StringStream](https://hackerrank.com/challenges/c-tutorial-stringstream/problem) | [cpp](07.%20C++/02.%20Strings/02.%20c-tutorial-stringstream.cpp) | Easy | 10 |
+| 03 | [Strings](https://hackerrank.com/challenges/c-tutorial-strings/problem) | [cpp](07.%20C++/02.%20Strings/03.%20c-tutorial-strings.cpp) | Easy | 10 |
 
 # 08. Java
 
@@ -294,6 +303,8 @@
 | 03 | [Java Substring Comparisons](https://hackerrank.com/challenges/java-string-compare/problem) | [java](08.%20Java/02.%20Strings/03.%20java-string-compare.java) | Easy | 10 |
 | 04 | [Java String Reverse](https://hackerrank.com/challenges/java-string-reverse/problem) | [java](08.%20Java/02.%20Strings/04.%20java-string-reverse.java) | Easy | 10 |
 | 05 | [Java Anagrams](https://hackerrank.com/challenges/java-anagrams/problem) | [java](08.%20Java/02.%20Strings/05.%20java-anagrams.java) | Easy | 10 |
+| 06 | [Java String Tokens](https://hackerrank.com/challenges/java-string-tokens/problem) | [java](08.%20Java/02.%20Strings/06.%20java-string-tokens.java) | Easy | 15 |
+| 07 | [Pattern Syntax Checker](https://hackerrank.com/challenges/pattern-syntax-checker/problem) | [java](08.%20Java/02.%20Strings/07.%20pattern-syntax-checker.java) | Easy | 20 |
 
 # 09. Python
 
