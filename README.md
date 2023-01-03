@@ -251,6 +251,16 @@
 | 04 | [Bitwise Operators](https://hackerrank.com/challenges/bitwise-operators-in-c/problem) | [c](06.%20C/02.%20Conditionals%20and%20Loops/04.%20bitwise-operators-in-c.c) | Easy | 15 |
 | 05 | [Printing Pattern Using Loops](https://hackerrank.com/challenges/printing-pattern-2/problem) | [c](06.%20C/02.%20Conditionals%20and%20Loops/05.%20printing-pattern-2.c) | Medium | 30 |
 
+## 03. Arrays and Strings
+
+| Number | Challenge | Solution | Difficulty | Score |
+| :-: | :-: | :-: | :-: | :-: |
+| 01 | [1D Arrays in C](https://hackerrank.com/challenges/1d-arrays-in-c/problem) | [c](06.%20C/03.%20Arrays%20and%20Strings/01.%201d-arrays-in-c.c) | Medium | 10 |
+| 02 | [Array Reversal](https://hackerrank.com/challenges/reverse-array-c/problem) | [c](06.%20C/03.%20Arrays%20and%20Strings/02.%20reverse-array-c.c) | Medium | 20 |
+| 03 | [Printing Tokens](https://hackerrank.com/challenges/printing-tokens-/problem) | [c](06.%20C/03.%20Arrays%20and%20Strings/03.%20printing-tokens-.c) | Medium | 20 |
+| 04 | [Digit Frequency](https://hackerrank.com/challenges/frequency-of-digits-1/problem) | [c](06.%20C/03.%20Arrays%20and%20Strings/04.%20frequency-of-digits-1.c) | Medium | 25 |
+| 05 | [Dynamic Array in C](https://hackerrank.com/challenges/dynamic-array-in-c/problem) | [c](06.%20C/03.%20Arrays%20and%20Strings/05.%20dynamic-array-in-c.c) | Medium | 40 |
+
 # 07. C++
 
 ## 01. Introduction
@@ -273,6 +283,16 @@
 | 01 | [Attribute Parser](https://hackerrank.com/challenges/attribute-parser/problem) | [cpp](07.%20C++/02.%20Strings/01.%20attribute-parser.cpp) | Medium | 35 |
 | 02 | [StringStream](https://hackerrank.com/challenges/c-tutorial-stringstream/problem) | [cpp](07.%20C++/02.%20Strings/02.%20c-tutorial-stringstream.cpp) | Easy | 10 |
 | 03 | [Strings](https://hackerrank.com/challenges/c-tutorial-strings/problem) | [cpp](07.%20C++/02.%20Strings/03.%20c-tutorial-strings.cpp) | Easy | 10 |
+
+## 03. Classes
+
+| Number | Challenge | Solution | Difficulty | Score |
+| :-: | :-: | :-: | :-: | :-: |
+| 01 | [Structs](https://hackerrank.com/challenges/c-tutorial-struct/problem) | [cpp](07.%20C++/03.%20Classes/01.%20c-tutorial-struct.cpp) | Easy | 10 |
+| 02 | [Class](https://hackerrank.com/challenges/c-tutorial-class/problem) | [cpp](07.%20C++/03.%20Classes/02.%20c-tutorial-class.cpp) | Easy | 10 |
+| 03 | [Classes and Objects](https://hackerrank.com/challenges/classes-objects/problem) | [cpp](07.%20C++/03.%20Classes/03.%20classes-objects.cpp) | Easy | 20 |
+| 04 | [Box It!](https://hackerrank.com/challenges/box-it/problem) | [cpp](07.%20C++/03.%20Classes/04.%20box-it.cpp) | Easy | 30 |
+| 05 | [Inherited Code](https://hackerrank.com/challenges/inherited-code/problem) | [cpp](07.%20C++/03.%20Classes/05.%20inherited-code.cpp) | Medium | 30 |
 
 # 08. Java
 
@@ -305,6 +325,8 @@
 | 05 | [Java Anagrams](https://hackerrank.com/challenges/java-anagrams/problem) | [java](08.%20Java/02.%20Strings/05.%20java-anagrams.java) | Easy | 10 |
 | 06 | [Java String Tokens](https://hackerrank.com/challenges/java-string-tokens/problem) | [java](08.%20Java/02.%20Strings/06.%20java-string-tokens.java) | Easy | 15 |
 | 07 | [Pattern Syntax Checker](https://hackerrank.com/challenges/pattern-syntax-checker/problem) | [java](08.%20Java/02.%20Strings/07.%20pattern-syntax-checker.java) | Easy | 20 |
+| 08 | [Java Regex](https://hackerrank.com/challenges/java-regex/problem) | [java](08.%20Java/02.%20Strings/08.%20java-regex.java) | Medium | 25 |
+| 09 | [Java Regex 2 - Duplicate Words](https://hackerrank.com/challenges/duplicate-word/problem) | [java](08.%20Java/02.%20Strings/09.%20duplicate-word.java) | Medium | 12.50 |
 
 # 09. Python
 
@@ -612,3 +634,11 @@
 | 03 | [Reverse a doubly linked list](https://hackerrank.com/challenges/reverse-a-doubly-linked-list/problem) | [java](18.%20Interview%20Preparation%20Kit/12.%20Linked%20Lists/03.%20reverse-a-doubly-linked-list.java) | Easy | 5 |
 | 04 | [Find Merge Point of Two Lists](https://hackerrank.com/challenges/find-the-merge-point-of-two-joined-linked-lists/problem) | [java](18.%20Interview%20Preparation%20Kit/12.%20Linked%20Lists/04.%20find-the-merge-point-of-two-joined-linked-lists.java) | Easy | 5 |
 | 05 | [Linked Lists: Detect a Cycle](https://hackerrank.com/challenges/ctci-linked-list-cycle/problem) | [java](18.%20Interview%20Preparation%20Kit/12.%20Linked%20Lists/05.%20ctci-linked-list-cycle.java) | Easy | 25 |
+
+# 19. Contests
+
+## 01. ProjectEuler+
+
+| Number | Challenge | Solution | Difficulty | Score |
+| :-: | :-: | :-: | :-: | :-: |
+| 001 | [Project Euler #1: Multiples of 3 and 5](https://hackerrank.com/contests/projecteuler/challenges/euler001/problem) | [py](19.%20Contests/01.%20ProjectEuler+/001.%20euler001.py) | Easy | 100 |

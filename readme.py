@@ -36,6 +36,8 @@ def get_problem_data(file):
     number, fname, ext = file.split('.')
     fname = fname.strip()
     url = "https://hackerrank.com/challenges/" + fname + "/problem"
+    if fname.startswith('euler'):
+        url = "https://hackerrank.com/contests/projecteuler/challenges/" + fname + "/problem"
     html = requests.get(url, headers=get_request_headers())
     soup = BeautifulSoup(html.text, "html.parser")
     h1 = soup.select('h1.ui-icon-label')
