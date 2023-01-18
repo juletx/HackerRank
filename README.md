@@ -508,6 +508,14 @@
 
 | Number | Challenge | Solution | Difficulty | Score |
 | :-: | :-: | :-: | :-: | :-: |
+| 01 | [Revising Aggregations - The Count Function](https://hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [sql](11.%20SQL/03.%20Aggregation/01.%20revising-aggregations-the-count-function.sql) | Easy | 10 |
+| 02 | [Revising Aggregations - The Sum Function](https://hackerrank.com/challenges/revising-aggregations-sum/problem) | [sql](11.%20SQL/03.%20Aggregation/02.%20revising-aggregations-sum.sql) | Easy | 10 |
+| 03 | [Revising Aggregations - Averages](https://hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [sql](11.%20SQL/03.%20Aggregation/03.%20revising-aggregations-the-average-function.sql) | Easy | 10 |
+| 04 | [Average Population](https://hackerrank.com/challenges/average-population/problem) | [sql](11.%20SQL/03.%20Aggregation/04.%20average-population.sql) | Easy | 10 |
+| 05 | [Japan Population](https://hackerrank.com/challenges/japan-population/problem) | [sql](11.%20SQL/03.%20Aggregation/05.%20japan-population.sql) | Easy | 10 |
+| 06 | [Population Density Difference](https://hackerrank.com/challenges/population-density-difference/problem) | [sql](11.%20SQL/03.%20Aggregation/06.%20population-density-difference.sql) | Easy | 10 |
+| 07 | [The Blunder](https://hackerrank.com/challenges/the-blunder/problem) | [sql](11.%20SQL/03.%20Aggregation/07.%20the-blunder.sql) | Easy | 15 |
+| 08 | [Top Earners](https://hackerrank.com/challenges/earnings-of-employees/problem) | [sql](11.%20SQL/03.%20Aggregation/08.%20earnings-of-employees.sql) | Easy | 20 |
 | 09 | [Weather Observation Station 2](https://hackerrank.com/challenges/weather-observation-station-2/problem) | [sql](11.%20SQL/03.%20Aggregation/09.%20weather-observation-station-2.sql) | Easy | 15 |
 | 10 | [Weather Observation Station 13](https://hackerrank.com/challenges/weather-observation-station-13/problem) | [sql](11.%20SQL/03.%20Aggregation/10.%20weather-observation-station-13.sql) | Easy | 10 |
 | 11 | [Weather Observation Station 14](https://hackerrank.com/challenges/weather-observation-station-14/problem) | [sql](11.%20SQL/03.%20Aggregation/11.%20weather-observation-station-14.sql) | Easy | 10 |
@@ -516,6 +524,7 @@
 | 14 | [Weather Observation Station 17](https://hackerrank.com/challenges/weather-observation-station-17/problem) | [sql](11.%20SQL/03.%20Aggregation/14.%20weather-observation-station-17.sql) | Easy | 15 |
 | 15 | [Weather Observation Station 18](https://hackerrank.com/challenges/weather-observation-station-18/problem) | [sql](11.%20SQL/03.%20Aggregation/15.%20weather-observation-station-18.sql) | Medium | 25 |
 | 16 | [Weather Observation Station 19](https://hackerrank.com/challenges/weather-observation-station-19/problem) | [sql](11.%20SQL/03.%20Aggregation/16.%20weather-observation-station-19.sql) | Medium | 30 |
+| 17 | [Weather Observation Station 20](https://hackerrank.com/challenges/weather-observation-station-20/problem) | [sql](11.%20SQL/03.%20Aggregation/17.%20weather-observation-station-20.sql) | Medium | 40 |
 
 # 12. Databases
 
