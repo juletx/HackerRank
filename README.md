@@ -261,6 +261,24 @@
 | 04 | [Digit Frequency](https://hackerrank.com/challenges/frequency-of-digits-1/problem) | [c](06.%20C/03.%20Arrays%20and%20Strings/04.%20frequency-of-digits-1.c) | Medium | 25 |
 | 05 | [Dynamic Array in C](https://hackerrank.com/challenges/dynamic-array-in-c/problem) | [c](06.%20C/03.%20Arrays%20and%20Strings/05.%20dynamic-array-in-c.c) | Medium | 40 |
 
+## 04. Functions
+
+| Number | Challenge | Solution | Difficulty | Score |
+| :-: | :-: | :-: | :-: | :-: |
+| 01 | [Calculate the Nth term](https://hackerrank.com/challenges/recursion-in-c/problem) | [c](06.%20C/04.%20Functions/01.%20recursion-in-c.c) | Easy | 15 |
+| 02 | [Students Marks Sum](https://hackerrank.com/challenges/students-marks-sum/problem) | [c](06.%20C/04.%20Functions/02.%20students-marks-sum.c) | Easy | 20 |
+| 03 | [Sorting Array of Strings](https://hackerrank.com/challenges/sorting-array-of-strings/problem) | [c](06.%20C/04.%20Functions/03.%20sorting-array-of-strings.c) | Hard | 40 |
+| 04 | [Permutations of Strings](https://hackerrank.com/challenges/permutations-of-strings/problem) | [c](06.%20C/04.%20Functions/04.%20permutations-of-strings.c) | Medium | 40 |
+| 05 | [Variadic functions in C](https://hackerrank.com/challenges/variadic-functions-in-c/problem) | [c](06.%20C/04.%20Functions/05.%20variadic-functions-in-c.c) | Medium | 50 |
+| 06 | [Querying the Document](https://hackerrank.com/challenges/querying-the-document/problem) | [c](06.%20C/04.%20Functions/06.%20querying-the-document.c) | Hard | 60 |
+
+## 05. Structs and Enums
+
+| Number | Challenge | Solution | Difficulty | Score |
+| :-: | :-: | :-: | :-: | :-: |
+| 01 | [Boxes through a Tunnel](https://hackerrank.com/challenges/too-high-boxes/problem) | [c](06.%20C/05.%20Structs%20and%20Enums/01.%20too-high-boxes.c) | Easy | 25 |
+| 02 | [Small Triangles, Large Triangles](https://hackerrank.com/challenges/small-triangles-large-triangles/problem) | [c](06.%20C/05.%20Structs%20and%20Enums/02.%20small-triangles-large-triangles.c) | Medium | 30 |
+
 # 07. C++
 
 ## 01. Introduction
